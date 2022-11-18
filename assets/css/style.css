@@ -15474,3 +15474,16 @@ footer a.f_logo img {
     max-width: 80px;
     width: 100%;
 }
+
+.w_section_title p{
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 21px;
+    padding-bottom: 0;
+    color: white;
+    text-align: center;
+}
+
+.sm_new_f_content{
+    padding-top: 20px;
+}
